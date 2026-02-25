@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm pranav</h1>
 <h3 align="center">A passionate web3 golang developer from India</h3>
 
